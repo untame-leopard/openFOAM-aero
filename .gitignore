@@ -1,0 +1,7 @@
+# OpenFOAM generated files
+/*.log
+/processor*/
+/constant/polyMesh/
+/[0-9]*/          # Time directories
+/postProcessing/
+*.OpenFOAM
